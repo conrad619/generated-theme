@@ -79,21 +79,6 @@ get_header();
 				?>
 
 
-<!--                 <a href="#">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/partner-1.png" alt="partner 1">
-                </a>
-                <a href="#">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/partner-2.png" alt="partner 2">
-                </a>
-                <a href="#">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/partner-3.png" alt="partner 3">
-                </a>
-                <a href="#">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/partner-4.png" alt="partner 4">
-                </a>
-                <a href="#">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/partner-5.png" alt="partner 5">
-                </a> -->
             </div>
         </div>
         <div class="bg-color-3 relative">
@@ -133,21 +118,6 @@ get_header();
                 </ul>
 				
 				
-				
-<!--                 <ul class="flex flex-col gap-y-7 items-center">
-                    <li class="bg-black text-white font-thin  rounded-xl max-w-fit">
-                        <a href="#" class="px-9 py-6 block md:text-d4 text-d3">
-                            June 18, 2024: VV Underground Festival</a>
-                    </li>
-                    <li class="bg-black text-white font-thin rounded-xl max-w-fit">
-                        <a href="#" class="px-9 py-6 block md:text-d4 text-d3">
-                            June 18, 2024: VV Underground Festival</a>
-                    </li>
-                    <li class="bg-black text-white font-thin rounded-xl max-w-fit">
-                        <a href="#" class="px-9 py-6 block md:text-d4 text-d3">
-                            June 18, 2024: VV Underground Festival</a>
-                    </li>
-                </ul> -->
             </div>
         </div>
         <div class="bg-black text-white relative pt-16 pb-6">
@@ -196,51 +166,6 @@ get_header();
 				
 				?>
 
-
-
-
-                <!-- <div class="flex lg:flex-row flex-col lg:ml-44 lg:mr-20 mx-8 mb-5 items-center">
-                    <div class="w-full max-w-[400px] flex-shrink-0">
-                        <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/justine.png" alt="Justine">
-                    </div>
-                    <div class="mt-16">
-                        <h3 class="text-d4 lg:text-right text-center font-thin">Justin Perez</h3>
-                        <hr class="mb-7 lg:-ml-10">
-                        <p class="text-d2 lg:text-right text-center">
-                            Indiana, USA<br>
-                            Was born and raised in Houston, Texas. He was a student at Texas School for the Deaf. He has always been fascinated by American Sign Language (ASL) performance art and storytelling styles. Throughout his teenage years, he had incredibly deep bonds with several of his close friends who also enjoy sharing a variety of ASL stories, and that was where he defined numerous storytelling techniques along with sign language expressions. The more he shared his stories with the public; the more people have asked him to continue sharing his stories.
-                        </p>
-                    </div>
-                </div>
-                <div class="flex flex-col lg:ml-20 lg:mr-44 mx-8 lg:flex-row-reverse mb-5 items-center">
-                    <div class="w-full max-w-[400px] flex-shrink-0">
-                        <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/lisa.png" alt="Lisa">
-                    </div>
-                    <div class="mt-16">
-                        <h3 class="text-d4 lg:text-left text-center font-thin">Lisa McBee</h3>
-                        <hr class="mb-7 lg:-mr-10">
-                        <p class="text-d2 lg:text-left text-center">
-                            Washington D.C., USA<br>
-                            Lisa McBee was born in Los Angeles, CA. The family relocated to Missouri at the age of six. Lisa then attended Missouri school for the Deaf located in Fulton, Missouri. Lisa is a vibrant high-spirited deaf woman who has “pure and  simple” philosophy on life. Her charismatic personality can be seen through her soulful performances with American Sign Language (ASL.) Lisa can take her audience on a captivating  journey through the eyes of a deaf person. She deeply embraces the deaf life and culture. Lisa has hosted and performed numerous deaf events, workshops, and live-streaming shows. She has acted in and participated in the making of many videos and is involved in ASL Casting/Acting in the film industry. She is constantly expanding her knowledge and loves sharing herself in the deaf community.
-                        </p>
-                    </div>
-                </div>
-                <div class="flex lg:flex-row flex-col lg:ml-44 lg:mr-20 mx-8 mb-5 items-center">
-                    <div class="w-full max-w-[400px] flex-shrink-0">
-                        <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/joel.png" alt="Justine">
-                    </div>
-                    <div class="mt-16">
-                        <h3 class="text-d4 lg:text-right text-center font-thin">Joel Ortiz</h3>
-                        <hr class="mb-7 lg:-ml-10">
-                        <p class="text-d2 lg:text-right text-center">
-                            Florida, USA <br>
-                            Joel is a talented and passionate ASL performer who was born in Puerto Rico. Borning to hearing parents his family is fluent in American Sign Language as 2 of this children are Deaf. Later he graduated from a mainstreamting program. He also attened Valencia College in Orlando, FL. 
-                            <br>
-                            <br>
-                            His biggest accomplishments are being a husband and father to two beautiful girls and being able to collaborate with Justin and Lisa on the VV Underground project (a new online community of streamed poetry, storytelling, humor, music and rhythm videos).
-                        </p>
-                    </div>
-                </div> -->
 
 
 

@@ -60,22 +60,6 @@ get_header();
 
 
 
-<!-- 
-                <li class=" font-thin max-w-fit flex">
-                    <div href="#" class="md:px-9 md:py-6 p-5 block md:text-d4 md:mr-12 mr-5 text-d2 bg-white text-black rounded-xl">
-                        June 18, 2024: VV Underground Festival</div>
-                    <a href="#" class="bg-black text-white p-5 rounded-xl md:text-d4 text-d2 flex items-center">BUY</a>
-                </li>
-                <li class=" font-thin max-w-fit flex">
-                    <a href="#" class="md:px-9 md:py-6 p-5 block md:text-d4 md:mr-12 mr-5 text-d2 bg-white text-black rounded-xl">
-                        June 18, 2024: VV Underground Festival</a>
-                    <a href="#" class="bg-black text-white p-5 rounded-xl md:text-d4 text-d2 flex items-center">BUY</a>
-                </li>
-                <li class=" font-thin max-w-fit flex">
-                    <a href="#" class="md:px-9 md:py-6 p-5 block md:text-d4 md:mr-12 mr-5 text-d2 bg-white text-black rounded-xl">
-                        June 18, 2024: VV Underground Festival</a>
-                    <a href="#" class="bg-black text-white p-5 rounded-xl md:text-d4 text-d2 flex items-center">BUY</a>
-                </li> -->
             </ul>
         </div>
     </div>
@@ -133,46 +117,6 @@ get_header();
 
             ?>
 
-
-
-
-
-            <!-- <div class="relative flex flex-col md:items-end items-center">
-                <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[488px] w-full">
-                <div class="bottom-[12%] lg:pr-[42%] w-full absolute">
-                    <div class="bg-color-2  max-w-[485px] w-full lg:text-d4 text-d2 rounded-xl text-center lg:py-6 lg:px-5 p-3 z-10 mx-auto">Cameron Miller</div>
-                </div>
-            </div>
-            <div class="relative flex flex-col  md:items-start items-center">
-                <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[488px] w-full">
-                <div class="bottom-[12%] lg:pl-[42%] w-full absolute">
-                    <div class="bg-color-2 max-w-[485px] w-full lg:text-d4 text-d2 rounded-xl text-center lg:py-6 lg:px-5 p-3 z-10 mx-auto">Cameron Miller</div>
-                </div>
-            </div>
-            <div class="relative flex flex-col md:items-end items-center">
-                <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[488px] w-full">
-                <div class="bottom-[12%] lg:pr-[42%] w-full absolute">
-                    <div class="bg-color-2  max-w-[485px] w-full lg:text-d4 text-d2 rounded-xl text-center lg:py-6 lg:px-5 p-3 z-10 mx-auto">Cameron Miller</div>
-                </div>
-            </div>
-            <div class="relative flex flex-col  md:items-start items-center">
-                <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[488px] w-full">
-                <div class="bottom-[12%] lg:pl-[42%] w-full absolute">
-                    <div class="bg-color-2 max-w-[485px] w-full lg:text-d4 text-d2 rounded-xl text-center lg:py-6 lg:px-5 p-3 z-10 mx-auto">Cameron Miller</div>
-                </div>
-            </div>
-            <div class="relative flex flex-col md:items-end items-center">
-                <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[488px] w-full">
-                <div class="bottom-[12%] lg:pr-[42%] w-full absolute">
-                    <div class="bg-color-2  max-w-[485px] w-full lg:text-d4 text-d2 rounded-xl text-center lg:py-6 lg:px-5 p-3 z-10 mx-auto">Cameron Miller</div>
-                </div>
-            </div>
-            <div class="relative flex flex-col  md:items-start items-center">
-                <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[488px] w-full">
-                <div class="bottom-[12%] lg:pl-[42%] w-full absolute">
-                    <div class="bg-color-2 max-w-[485px] w-full lg:text-d4 text-d2 rounded-xl text-center lg:py-6 lg:px-5 p-3 z-10 mx-auto">Cameron Miller</div>
-                </div>
-            </div> -->
 
 
         </div>

@@ -67,20 +67,6 @@ get_header();
 
 
 
-
-
-
-                <!-- <li class="font-thin flex w-full justify-center">
-                    <a href="#" class="md:px-9 md:py-6 p-5 block md:text-d4 md:mr-12 mr-5 text-d2 bg-black text-white rounded-xl max-w-[662px] w-full text-center">
-                        BECOME A VOLUNTEER</a>
-                    <a href="#" class="bg-color-2 text-black p-5 rounded-xl md:text-d4 text-d2 max-w-[349px] w-full text-center">APPLY HERE</a>
-                </li>
-                <li class="font-thin flex w-full justify-center">
-                    <a href="#" class="md:px-9 md:py-6 p-5 block md:text-d4 md:mr-12 mr-5 text-d2 bg-black text-white rounded-xl max-w-[662px] w-full text-center">
-                        BECOME AN ARTIST</a>
-                    <a href="#" class="bg-color-2 text-black p-5 rounded-xl md:text-d4 text-d2 max-w-[349px] w-full text-center">APPLY HERE</a>
-                </li> -->
-                
             </ul>
             <p class="text-d3 text-center lg:text-black text-color-3">or Email us at: <a href="mailto:VVUnderground2020@gmail.com">VVUnderground2020@gmail.com</a> </p>
         </div>
@@ -154,47 +140,6 @@ get_header();
 
 
 
-
-            <!-- <div class="relative flex mb-5">
-                <div class="md:w-fit w-1/2">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[414px] w-full">
-                </div>
-                <div class="flex-grow">
-                    <p class="md:text-d4 text-d3 text-right mt-9">Justine Perez</p>
-                    <hr class="mb-4 border-black border-2 -ml-10">
-                    <p class="md:text-d4 text-d3 text-right">Volunteer</p>
-                </div>
-            </div>
-            <div class="relative flex flex-row-reverse mb-5">
-                <div class="md:w-fit w-1/2">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[414px] w-full">
-                </div>
-                <div class="flex-grow">
-                    <p class="md:text-d4 text-d3 text-left mt-9">Justine Perez</p>
-                    <hr class="mb-4 border-black border-2 -mr-10">
-                    <p class="md:text-d4 text-d3 text-left">Volunteer</p>
-                </div>
-            </div>
-            <div class="relative flex mb-5">
-                <div class="md:w-fit w-1/2">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[414px] w-full">
-                </div>
-                <div class="flex-grow">
-                    <p class="md:text-d4 text-d3 text-right mt-9">Justine Perez</p>
-                    <hr class="mb-4 border-black border-2 -ml-10">
-                    <p class="md:text-d4 text-d3 text-right">Volunteer</p>
-                </div>
-            </div>
-            <div class="relative flex flex-row-reverse mb-5">
-                <div class="md:w-fit w-1/2">
-                    <img src="<?php bloginfo( 'wpurl' ); ?>/wp-content/uploads/2022/05/circle.svg" alt="" class="max-w-[414px] w-full">
-                </div>
-                <div class="flex-grow">
-                    <p class="md:text-d4 text-d3 text-left mt-9">Justine Perez</p>
-                    <hr class="mb-4 border-black border-2 -mr-10">
-                    <p class="md:text-d4 text-d3 text-left">Volunteer</p>
-                </div>
-            </div> -->
 
 
 
