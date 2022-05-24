@@ -1,0 +1,4 @@
+- git ftp init: upload your website the first time
+- git ftp catchup: sync your server with your local project for start use git + ftp
+- git ftp push: upload new changes
+test
