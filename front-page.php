@@ -28,6 +28,7 @@ get_header();
 				$link_url = $link['url'];
 				$link_title = $link['title'];
 				$link_target = $link['target'] ? $link['target'] : '_self';
+				$link_url = $link_url ? $link_url : '#';
 				?>
 				 	<a href="<?php echo esc_url( $link_url ); ?>" target="<?php echo esc_attr( $link_target ); ?>" class="bg-color-2 px-12 py-3 text-center rounded-xl font-thin text-d3">
                     <?php echo esc_html( $link_title ); ?>
@@ -39,6 +40,7 @@ get_header();
 				$link_url = $link['url'];
 				$link_title = $link['title'];
 				$link_target = $link['target'] ? $link['target'] : '_self';
+				$link_url = $link_url ? $link_url : '#';
 				?>
 				 	<a href="<?php echo esc_url( $link_url ); ?>" <?php echo esc_attr( $link_target ); ?> class="bg-white px-12 py-3 text-center rounded-xl font-thin text-d3">
                     <?php echo esc_html( $link_title ); ?>
@@ -50,7 +52,7 @@ get_header();
         <div>
             <div class="py-11 bg-gradient-to-b from-[rgba(0,0,0,0.08)] absolute w-full top-0 left-0"></div>
             <h2 class="font-thin text-d4 py-11 mb-12 text-center">PARTNERS</h2>
-            <div class="flex flex-wrap gap-x-11 gap-y-7 md:pb-28 pb-16 justify-center">
+            <div class="flex flex-wrap gap-y-7 md:pb-28 pb-16 justify-center mx-7">
                 <?php
 
 					// Check rows exists.
@@ -64,9 +66,16 @@ get_header();
 							$sub_link = get_sub_field('partner_link');
 							// Do something...
 				?>
-					<a href="<?php echo esc_url($sub_link); ?>">
-						<img src="<?php echo esc_url($sub_image['url']); ?>" alt="<?php echo esc_attr($sub_image['alt']); ?>">
-					</a>
+					<?php if($sub_link): ?>
+						<a href="<?php echo esc_url($sub_link); ?>" class="md:w-auto sm:w-1/2 w-full px-5">
+							<img src="<?php echo esc_url($sub_image['url']); ?>" alt="<?php echo esc_attr($sub_image['alt']); ?>" class="max-w-[350px] mx-auto w-full">
+						</a>
+					<?php else: ?>
+						<div class="md:w-auto sm:w-1/2 w-full px-5">
+							<img src="<?php echo esc_url($sub_image['url']); ?>" alt="<?php echo esc_attr($sub_image['alt']); ?>" class="max-w-[350px] mx-auto w-full">
+					</div>
+					<?php endif; ?>
+
 				<?php
 						// End loop.
 						endwhile;
@@ -99,6 +108,7 @@ get_header();
 							// Load sub field value.
 							$sub_text = get_sub_field('event_text');
 							$sub_link = get_sub_field('event_link');
+							$sub_link = $sub_link ? $sub_link : '#';
 							// Do something...
 				?>
 					<li class="bg-black text-white font-thin  rounded-xl max-w-fit">
