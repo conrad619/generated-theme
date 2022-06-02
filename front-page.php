@@ -68,12 +68,16 @@ get_header();
 				?>
 					<?php if($sub_link): ?>
 						<a href="<?php echo esc_url($sub_link); ?>" class="md:w-auto sm:w-1/2 w-full px-5">
-							<img src="<?php echo esc_url($sub_image['url']); ?>" alt="<?php echo esc_attr($sub_image['alt']); ?>" class="max-w-[350px] mx-auto w-full">
+							<div class="mx-auto max-w-[350px]">
+								<img src="<?php echo esc_url($sub_image['url']); ?>" alt="<?php echo esc_attr($sub_image['alt']); ?>" class="mx-auto">
+							</div>
 						</a>
 					<?php else: ?>
 						<div class="md:w-auto sm:w-1/2 w-full px-5">
-							<img src="<?php echo esc_url($sub_image['url']); ?>" alt="<?php echo esc_attr($sub_image['alt']); ?>" class="max-w-[350px] mx-auto w-full">
-					</div>
+							<div class="mx-auto max-w-[350px]">
+								<img src="<?php echo esc_url($sub_image['url']); ?>" alt="<?php echo esc_attr($sub_image['alt']); ?>" class="mx-auto">
+							</div>
+						</div>
 					<?php endif; ?>
 
 				<?php
